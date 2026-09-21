@@ -2,6 +2,15 @@
 
 # Data Warehouse & Analytics Project
 
+# Welcome 👋
+
+Welcome to my **Data Warehouse & Analytics Project**.
+
+This repository showcases my hands-on work with **PostgreSQL, SQL, ETL, data modeling, and analytics** through a practical end-to-end project.
+
+Feel free to explore the project and its development steps.
+
+
 ## 📌 Project Overview
 
 An end-to-end **Data Warehouse project using PostgreSQL**, covering ETL processes, data modeling, data transformation, and analytics.
