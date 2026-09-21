@@ -1,0 +1,23 @@
+ /*
+===============================================================================
+                         Create Database and Schemas
+===============================================================================
+Script Purpose:
+    This script creates the DataWarehouse database and three schemas:
+    bronze, silver, and gold.
+===============================================================================
+*/
+
+-- Create Database
+CREATE DATABASE DataWarehouse;
+
+-- Create Schemas
+CREATE SCHEMA bronze;
+CREATE SCHEMA silver;
+CREATE SCHEMA gold;
+
+-- Check Schemas
+SELECT schema_name
+FROM information_schema.schemata
+WHERE schema_name IN ('bronze', 'silver', 'gold')
+ORDER BY schema_name;
