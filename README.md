@@ -42,6 +42,9 @@ data-warehouse-project/
 ├── scripts/
 └── README.md
 ```
+##  🏗️.  Data Architecture
+
+<img width="1024" height="640" alt="image" src="https://github.com/user-attachments/assets/c219b157-129a-4c16-a260-f2cb9beb6818" />
 
 ## 👤 About Me
 
