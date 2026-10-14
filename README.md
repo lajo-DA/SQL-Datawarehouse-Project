@@ -33,6 +33,7 @@ An end-to-end **Data Warehouse project using PostgreSQL**, covering ETL processe
 * Indexing & query optimization
 * Analytical SQL queries
 
+
 ## 📁 Project Structure
 
 ```text
